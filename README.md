@@ -28,7 +28,7 @@ Technical diagrams and figures used throughout the report are available in the [
 
 This report was prepared as a course project for **Wireless Networks**
 during my B.Sc. in Computer Engineering at Islamic Azad University, Ardabil,
-under the supervision of **Semsarfathi**.
+under the supervision of **Dr. Semsarfathi**.
 
 The report uses **IEEE-style academic referencing** and includes 19 references from peer-reviewed publications, conference proceedings, and technical sources.
 

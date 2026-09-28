@@ -43,9 +43,8 @@ LiFi-Report/
 
 ## 👤 Author
 
-**Erfan Khadiv**
+**Erfan Khadiv**  
 B.Sc. in Computer Engineering, Islamic Azad University, Ardabil
-GitHub: [@ErfanKhadiv](https://github.com/ErfanKhadiv)
 
 ## 📜 License
 

@@ -26,7 +26,7 @@ Technical diagrams and figures used throughout the report are in the [`figures/`
 
 ## 🔬 Academic Context
 
-This article was written for the **Research and Presentation** course during my B.Sc. in Computer Engineering at Islamic Azad University, Ardabil, under the supervision of **Dr. Masoud Bekravi**.
+This article was written for the **Research method and presentation** course during my B.Sc. in Computer Engineering at Islamic Azad University, Ardabil, under the supervision of **Dr. Masoud Bekravi**.
 
 The report follows **IEEE-style referencing** and cites 19 references drawn from peer-reviewed publications, conference proceedings, and technical sources.
 

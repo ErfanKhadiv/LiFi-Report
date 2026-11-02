@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the Zenodo preprint."
+title: "Li-Fi (Light Fidelity): A Critical Review of Operating Principles, Modulation, Standards, Performance Claims and Open Challenges"
+type: article
+authors:
+  - family-names: Khadiv
+    given-names: Erfan
+    affiliation: "Islamic Azad University, Ardabil Branch"
+doi: 10.5281/zenodo.23898313
+date-released: 2026-11-02
+version: "1"
+repository-code: "https://github.com/ErfanKhadiv/LiFi-Report"
+license: CC-BY-4.0
+keywords:
+  - Li-Fi
+  - Visible light communication
+  - Optical wireless communication
+  - IEEE 802.11bb
+  - Optical OFDM
+  - Hybrid networks

@@ -27,7 +27,7 @@ The review is an expanded and updated version of the 2025 report, a course proje
 - **Applications, limitations and open challenges:** with an indication of maturity
 - **Related technology:** free-space optics (Taara)
 
-**Read it:** [Zenodo record](https://doi.org/10.5281/zenodo.23898313) · [`docs/LiFi_Critical_Review_2026_preprint.docx`](docs/LiFi_Critical_Review_2026_preprint.docx)
+**Read it:** [Zenodo record](https://doi.org/10.5281/zenodo.23898313) · [`docs/LiFi_Critical_Review_2026_preprint.pdf`](docs/LiFi_Critical_Review_2026_preprint.pdf)
 
 > Status: preprint (version 1, November 2026). It has not been peer reviewed.
 
@@ -63,7 +63,7 @@ A machine-readable citation is in [`CITATION.cff`](CITATION.cff), and GitHub sho
 LiFi-Report/
 ├── docs/
 │   ├── LiFi_paper_EN.docx                      # original 2025 report
-│   └── LiFi_Critical_Review_2026_preprint.docx # 2026 review (preprint)
+│   └── LiFi_Critical_Review_2026_preprint.pdf # 2026 review (preprint)
 ├── figures/
 ├── CITATION.cff
 ├── LICENSE
